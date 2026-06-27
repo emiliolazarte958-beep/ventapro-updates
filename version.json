@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "fecha": "2026-06-25",
-  "novedades": "Temas de color corregidos. Sidebar y menus ahora respetan el tema elegido.",
-  "url_descarga": "https://github.com/emiliolazarte958-beep/ventapro-updates/releases/download/1.5/VentaPro_Instalador_v1.5.exe"
+  "novedades": "Nuevo boton sol/luna para cambiar entre modo oscuro y claro al instante.",
+  "url_descarga": "https://github.com/emiliolazarte958-beep/ventapro-updates/releases/download/1.6/VentaPro_Instalador_v1.6.exe"
 }
