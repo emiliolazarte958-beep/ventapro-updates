@@ -1,6 +1,6 @@
 {
-  "version": "3.0",
+  "version": "2.9",
   "fecha": "2026-08-12",
   "novedades": "Venta por peso: productos con unidad kg permiten ingresar gramos y calculan el precio automaticamente.",
-  "url_descarga": "https://github.com/emiliolazarte958-beep/ventapro-updates/releases/download/3.0/VentaPro_Instalador_v3.0.exe"
+  "url_descarga": "https://github.com/emiliolazarte958-beep/ventapro-updates/releases/download/2.9/VentaPro_Instalador_v2.9.exe"
 }
